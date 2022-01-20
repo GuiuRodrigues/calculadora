@@ -8,7 +8,7 @@
 </h3>
 
 <p align="center">
-  <img alt="Calculadora" src=".github/Calculadora.gif" width="100%">
+  <img alt="Calculadora" src=".github/calculadora.gif" width="100%">
 </p>
 
 
@@ -25,5 +25,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 E uma simples calculadora criada para praticar os meus conhecimentos e aprimora-los em javaScript, CSS e HTML.
 
-Veja o projeto funcionando através [desse link](https://marcosguilherm.github.io/Balle-Bot/)
+Veja o projeto funcionando através [desse link](https://marcosguilherm.github.io/calculadora/)
 
