@@ -25,5 +25,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 E uma simples calculadora criada para praticar os meus conhecimentos e aprimora-los em javaScript, CSS e HTML.
 
-Veja o projeto funcionando através [desse link](https://marcosguilherm.github.io/calculadora/)
+Veja o projeto funcionando através [deste link](https://marcosguilherm.github.io/calculadora/)
 
